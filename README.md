@@ -11,4 +11,4 @@
   [Упражнение 4](https://github.com/AlexanderErmolov/DzLetoProgramming/blob/main/arithmetic_operations_4.c)
   [Упражнение 5](https://github.com/AlexanderErmolov/DzLetoProgramming/blob/main/arithmetic_operations_5.c)
   [Упражнение 6](https://github.com/AlexanderErmolov/DzLetoProgramming/blob/main/arithmetic_operations_6.c)
-3. [Поразрядные операции] (https://github.com/AlexanderErmolov/DzLetoProgramming/blob/main/bitwise_operations.c)
+3. [Поразрядные операции](https://github.com/AlexanderErmolov/DzLetoProgramming/blob/main/bitwise_operations.c)
