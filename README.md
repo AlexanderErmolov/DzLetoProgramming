@@ -31,8 +31,8 @@
    [Упражнение 3](https://github.com/AlexanderErmolov/DzLetoProgramming/blob/main/arrays_3.c)
    [Упражнение 4](https://github.com/AlexanderErmolov/DzLetoProgramming/blob/main/arrays_4.c)
 8. Ввод с консоли
-   [Упражнение 1](https://github.com/AlexanderErmolov/DzLetoProgramming/blob/main/console_input_1.c)
-   [Упражнение 2](https://github.com/AlexanderErmolov/DzLetoProgramming/blob/main/console_input_2.c)
-   [Упражнение 3](https://github.com/AlexanderErmolov/DzLetoProgramming/blob/main/console_input_3.c)
-   [Упражнение 4](https://github.com/AlexanderErmolov/DzLetoProgramming/blob/main/console_input_4.c)
-   [Упражнение 5](https://github.com/AlexanderErmolov/DzLetoProgramming/blob/main/console_input_5.c)
+   [Упражнение 1](https://github.com/AlexanderErmolov/DzLetoProgramming/blob/main/Console_input_1.c)
+   [Упражнение 2](https://github.com/AlexanderErmolov/DzLetoProgramming/blob/main/Console_input_2.c)
+   [Упражнение 3](https://github.com/AlexanderErmolov/DzLetoProgramming/blob/main/Console_input_3.c)
+   [Упражнение 4](https://github.com/AlexanderErmolov/DzLetoProgramming/blob/main/Console_input_4.c)
+   [Упражнение 5](https://github.com/AlexanderErmolov/DzLetoProgramming/blob/main/Console_input_5.c)
