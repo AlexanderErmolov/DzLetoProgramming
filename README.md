@@ -36,3 +36,27 @@
    [Упражнение 3](https://github.com/AlexanderErmolov/DzLetoProgramming/blob/main/Console_input_3.c)
    [Упражнение 4](https://github.com/AlexanderErmolov/DzLetoProgramming/blob/main/Console_input_4.c)
    [Упражнение 5](https://github.com/AlexanderErmolov/DzLetoProgramming/blob/main/Console_input_5.c)
+9. Что такое указатели
+   [Упражнение 1](https://github.com/AlexanderErmolov/DzLetoProgramming/blob/main/what_are_pointers_1.c)
+   [Упражнение 2](https://github.com/AlexanderErmolov/DzLetoProgramming/blob/main/what_are_pointers_2.c)
+10. Константы и указатели
+   [Упражнение 1](https://github.com/AlexanderErmolov/DzLetoProgramming/blob/main/constants_and_pointers_1.c)
+11. Указатели, массивы и строки
+   [Упражнение 1](https://github.com/AlexanderErmolov/DzLetoProgramming/blob/main/pointers_arrays_and_strings_1.c)
+   [Упражнение 2](https://github.com/AlexanderErmolov/DzLetoProgramming/blob/main/pointers_arrays_and_strings_2.c)
+12. Массив указателей
+   [Упражнение 1](https://github.com/AlexanderErmolov/DzLetoProgramming/blob/main/array_pointers.c)
+13. Определение и описание функций
+   [Упражнение 1](https://github.com/AlexanderErmolov/DzLetoProgramming/blob/main/definition_and_description_of_functions_1.c)
+   [Упражнение 2](https://github.com/AlexanderErmolov/DzLetoProgramming/blob/main/definition_and_description_of_functions_2.c)
+14. Параметры функций
+   [Упражнение 1](https://github.com/AlexanderErmolov/DzLetoProgramming/blob/main/function_parameters_1.c)
+   [Упражнение 2](https://github.com/AlexanderErmolov/DzLetoProgramming/blob/main/function_parameters_2.c)
+15. Результат функций
+   [Упражнение 1](https://github.com/AlexanderErmolov/DzLetoProgramming/blob/main/function_result_1.c)
+   [Упражнение 2](https://github.com/AlexanderErmolov/DzLetoProgramming/blob/main/function_result_2.c)
+16. Указатели в параметрах функций
+   [Упражнение 1](https://github.com/AlexanderErmolov/DzLetoProgramming/blob/main/pointers_in_function_parameters_1.c)
+   [Упражнение 2](https://github.com/AlexanderErmolov/DzLetoProgramming/blob/main/pointers_in_function_parameters_2.c)
+17. Указатели на функции
+   [Упражнение 1](https://github.com/AlexanderErmolov/DzLetoProgramming/blob/main/pointers_to_functions_1.c)
